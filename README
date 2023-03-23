@@ -1,3 +1,2 @@
-Project 4 Description:
-
-The project crease a galaxy scene including nine planets and some other stars. The camera tour moves around these planets. Some planets have different inside, so the tour will "dive into" these special planet and pause a few second to view their inside scene.
+Final Project Description:
+This is a tiny game that you hang around in a flower field while the owner is not very friendly. The player can use arrow keys to control the character to move around. When the character approaches the owner, he'll start waving and jumping to warn you and if you insist to move closer, he'll start chasing after you. The game restarts when you are caught.
