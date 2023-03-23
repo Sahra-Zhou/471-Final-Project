@@ -1,0 +1,3 @@
+Project 4 Description:
+
+The project crease a galaxy scene including nine planets and some other stars. The camera tour moves around these planets. Some planets have different inside, so the tour will "dive into" these special planet and pause a few second to view their inside scene.
